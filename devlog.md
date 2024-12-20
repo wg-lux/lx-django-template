@@ -1,4 +1,7 @@
 # 2024-12-19
+## Requirements
+- [ ] create user local-administration-service
+
 ## Set up end2end test
 ### Deploy Repo
 - Use nix home manager of local-administration-service to automatically clone https://github.com/wg-lux/lx-django-template to the home directory
