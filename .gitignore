@@ -3,7 +3,7 @@
 .direnv/
 erc_data/
 lx-django-template.code-workspace
-# .devenv.flake.nix
+.devenv.flake.nix
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
