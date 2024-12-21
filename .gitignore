@@ -1,9 +1,19 @@
 # 
+data/
+logs/
+tmp/
 .devenv/
 .direnv/
 erc_data/
 lx-django-template.code-workspace
 .devenv.flake.nix
+django-settings.json
+
+*.env
+
+
+input.json
+outputs.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

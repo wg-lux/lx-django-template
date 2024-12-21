@@ -34,6 +34,9 @@ dependencies = [
     "scipy>=1.14.1",
     "pillow>=11.0.0",
     "endoreg-db>=0.5.3",
+    "daphne>=4.1.2",
+    "python-dotenv>=1.0.1",
+    "whitenoise>=6.8.2",
 ]
 
 
